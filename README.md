@@ -19,11 +19,8 @@ The dataset consists of 10 variables:
 - **isFraud:** fraud transaction
 
 # Deploy and check the results:
-## Image Comparison
-
-<p align="center">
-  <h2>For Fraudulent Transaction:</h2>
-  <img src="https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Fraudulent%20Transaction%20.jpg" alt="Image 1" width="400"/>
-  <h2>For Fraudulent Transaction:</h2>
-  <img src="https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg" alt="Image 2" width="400"/>
-</p>
+- For Fraudulent Transaction:
+![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Fraudulent%20Transaction%20.jpg)
+https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg
+- For Fraudulent Transaction:
+![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg)
