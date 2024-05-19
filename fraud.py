@@ -13,7 +13,7 @@ def predict_fraud(data):
     return prediction[0]
 
 # Streamlit app
-st.title("Online Bank Payment Fraud Detection")
+st.title("Online Payment Fraud Detection")
 
 st.write("""
 ## Enter transaction details to detect if it is fraudulent or not
