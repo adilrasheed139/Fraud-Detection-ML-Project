@@ -21,6 +21,5 @@ The dataset consists of 10 variables:
 # Deploy and check the results:
 - For Fraudulent Transaction:
 ![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Fraudulent%20Transaction%20.jpg)
-https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg
 - For Fraudulent Transaction:
 ![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg)
