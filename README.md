@@ -15,5 +15,12 @@ The dataset consists of 10 variables:
 - **newbalanceOrig:** balance after the transaction
 - **nameDest:** recipient of the transaction
 - **oldbalanceDest:** initial balance of recipient before the transaction
-- **newbalanceDest:** the new balance of recipient after the transaction
+- **newbalanceDest:** the new balance of the recipient after the transaction
 - **isFraud:** fraud transaction
+
+# Deploy and check the results:
+- For Fraudulent Transaction:
+![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Fraudulent%20Transaction%20.jpg)
+
+- For Fraudulent Transaction:
+![Alt text](https://github.com/adilrasheed139/Fraud-Detection-ML-Project/blob/main/Legitimate%20Transaction.jpg)
